@@ -10,7 +10,7 @@
 Time complexity O(N^2)
 Space complexity O(N^2)
 
-This solution needed to eliminate the extra array and finding root index 
+This solution needed to eliminate the extra array and finding root index easily 
 
 """
 class Solution:
